@@ -5,7 +5,7 @@ and Body of the mail will be the attachments of the particular date.
 
 "import_from_csv.py" is the main file
 
-1. This codebase was completely written by me.
+1. This codebase was completely written by me and I have created basic CSV file with ID,Date,Attachments for demo purpose.
 2. I have used Sqlite3 Database Since, It is very easy to run in VSCode.
 3. Basic SMTP protocol module has been used throughout the project.
 4. I have used my college mail ID as my receiver  and my personal Mail ID as a sender .I created a path for my personal ID credentials in environmental variable. So, It is only known for me and accepted for my PC.
