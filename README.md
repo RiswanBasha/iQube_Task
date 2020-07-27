@@ -10,4 +10,4 @@ and Body of the mail will be the attachments of the particular date.
 3. Basic SMTP protocol module has been used throughout the project.
 4. I have used my college mail ID as my receiver  and my personal Mail ID as a sender .I created a path for my personal ID credentials in environmental variable. So, It is only known for me and accepted for my PC.
 
-Finally, Thankyou for giving me this Task. I have learnt a lot of basic python Scripting concepts. Excited to learn a lot from your support. 
+Finally, Thankyou for giving me this Task. I have learnt a lot of basic python Scripting concepts.
